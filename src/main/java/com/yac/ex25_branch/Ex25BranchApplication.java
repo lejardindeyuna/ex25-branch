@@ -1,4 +1,4 @@
-package com.yac;
+package com.yac.ex25_branch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
